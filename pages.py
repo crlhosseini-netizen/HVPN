@@ -68,7 +68,7 @@ input:focus+.ic{color:var(--accent)}
     <div class="err" id="err"><i class="ti ti-alert-circle"></i><span id="err-text"></span></div>
     <div class="hint">
       <span class="hint-label">رمز پیش‌فرض سیستم</span>
-      <span class="hint-val" onclick="document.getElementById('pw').value='HVPNKING';document.getElementById('pw').focus()">HVPNKING</span>
+      <span class="hint-val" onclick="document.getElementById('pw').value='HVPN123';document.getElementById('pw').focus()">HVPN123</span>
     </div>
     <form id="form">
       <div class="field">
